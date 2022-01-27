@@ -1,0 +1,8 @@
+IMC < 16 : maigreur sévère
+IMC compris entre 16 et 16,99 : minceur modérée
+IMC compris entre 17 et 18,49 : minceur légère
+IMC compris en 18,5 et 24,99 : poids normal
+IMC> 25 (compris entre 25 et 29,99) : surpoids
+IMC>30 (compris entre 30 et 34,99) : obésité légère ou modérée
+IMC>35 (compris entre 35 et 39,99) : obésité dite sévère (de classe 2) 
+IMC>40 : obésité dite massive ou morbide (de classe 3)
